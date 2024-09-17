@@ -13,7 +13,7 @@
   <a href="https://codeforces.com/profile/qrq4" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="qrq4" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/PeterRefaat" target="blank">
+  <a href="https://www.leetcode.com/PeterRefaat" target="blank" title="C++">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peter-refaat" height="30" width="40" />
   </a>
 </p>
