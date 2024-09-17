@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate undergraduate at Faculty Of Computers And Information Sciences - Ain Shams University</h3>
 
-- 🌱 I’m currently learning **OOP,DSA and DB**
+- 🌱 I’m currently learning **OOP , DSA and DB**
 
 - 📫 How to reach me **peterrefaat904@gmail.com**
 
