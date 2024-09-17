@@ -12,9 +12,12 @@
 <p align="left">
   <a href="https://codeforces.com/profile/qrq4" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="qrq4" height="30" width="40" />
+    <span>Solves: [1169]</span>
   </a>
+  
   <a href="https://www.leetcode.com/PeterRefaat" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peter-refaat" height="30" width="40" />
+    <span>Solves: [97]</span>
   </a>
 </p>
 
