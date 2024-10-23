@@ -8,9 +8,7 @@
   </a> 
 </p>
 
-- 📫 How to reach me <a href="https://mail.google.com" class="gmail-button">
-    <i class="fab fa-google"></i> Gmail
-</a>
+- 📫 How to reach me [📧 Gmail](https://mail.google.com)
 
 
 
