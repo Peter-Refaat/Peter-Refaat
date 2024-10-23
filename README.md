@@ -1,15 +1,29 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A passionate undergraduate at Faculty Of Computers And Information Sciences - Ain Shams University</h3>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=peter-refaat&theme=darkhub" alt="peter-refaat" />
+  </a> 
+</p>
+
+- 📫 How to reach me **peterrefaat904@gmail.com**
+
 <img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="coding">
 
 
-<h3 align="left">Solved Problems</h3>
-<ul>
-  <li>Codeforces: <span id="codeforces-solved">Fetching...</span></li>
-  <li>LeetCode: <span id="leetcode-solved">Fetching...</span></li>
-</ul>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/peterrefaat_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="peterrefaat_" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/qrq4" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="qrq4" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/peter-refaat" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peter-refaat" height="30" width="40" />
+</a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -51,26 +65,3 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-refaat&show_icons=true&locale=en&layout=compact&theme=dark" alt="peter-refaat" />
 </p>
-
-<script>
-// Fetch Codeforces Stats
-fetch('https://codeforces.com/api/user.status?handle=qrq4')
-  .then(response => response.json())
-  .then(data => {
-    const solvedProblems = new Set();
-    data.result.forEach(submission => {
-      if (submission.verdict === "OK") {
-        solvedProblems.add(submission.problem.name);
-      }
-    });
-    document.getElementById("codeforces-solved").innerText = solvedProblems.size;
-  });
-
-// Fetch LeetCode Stats
-fetch('https://leetcode-stats-api.herokuapp.com/peter-refaat')
-  .then(response => response.json())
-  .then(data => {
-    document.getElementById("leetcode-solved").innerText = data.totalSolved;
-  });
-
-</script>
