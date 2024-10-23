@@ -8,10 +8,8 @@
   </a> 
 </p>
 
-- 📫 How to reach me <a href="mailto:peterrefaat904@gmail.com" style="text-decoration: none;">
-  <button style="background-color: #D44638; border: none; color: white; padding: 10px 20px; text-align: center; font-size: 16px; border-radius: 5px; cursor: pointer; display: flex; align-items: center;">
-    <i class="fa fa-envelope" aria-hidden="true" style="margin-right: 10px;"></i> Gmail
-  </button>
+- 📫 How to reach me <a href="https://mail.google.com" class="gmail-button">
+    <i class="fab fa-google"></i> Gmail
 </a>
 
 
