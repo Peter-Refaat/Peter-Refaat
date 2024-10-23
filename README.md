@@ -8,8 +8,8 @@
 </p>
 
 - 📫 How to reach me <a href="mailto:peterrefaat904@gmail.com" style="text-decoration: none;">
-  <button style="background-color: #007BFF; border-radius: 50%; color: white; padding: 10px 20px; text-align: center; font-size: 16px; border-radius: 5px; cursor: pointer;">
-    📫 Email Me
+  <button style="background-color: White; border-radius: 50%; color: white; padding: 10px 20px; text-align: center; font-size: 16px; border-radius: 5px; cursor: pointer;">
+    GMAIL
   </button>
 </a>
 
