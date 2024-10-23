@@ -67,5 +67,5 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-refaat&show_icons=true&locale=en&theme=dark" alt="peter-refaat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=peter-refaat&show_icons=true&locale=en&theme=dark" alt="peter-refaat" />
 </p>
