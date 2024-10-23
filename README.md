@@ -7,7 +7,11 @@
   </a> 
 </p>
 
-- 📫 How to reach me **peterrefaat904@gmail.com**
+<a href="mailto:peterrefaat904@gmail.com" style="text-decoration: none;">
+  <button style="background-color: #007BFF; border: none; color: white; padding: 10px 20px; text-align: center; font-size: 16px; border-radius: 5px; cursor: pointer;">
+    📫 Email Me
+  </button>
+</a>
 
 <img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="coding">
 
