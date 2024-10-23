@@ -8,7 +8,7 @@
   </a> 
 </p>
 
-- 📫 How to reach me ![Gmail Icon](https://link-to-your-icon.png) [Gmail](https://mail.google.com)
+- 📫 How to reach me ![Gmail Icon]([https://link-to-your-icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dgmail&psig=AOvVaw0v7BTd616QBBlL94ASPSJg&ust=1729776130242000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCy4q_MpIkDFQAAAAAdAAAAABAE)) [Gmail](https://mail.google.com)
 
 
 
