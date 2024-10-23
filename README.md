@@ -8,7 +8,7 @@
   </a> 
 </p>
 
-- 📫 How to reach me [📧 Gmail](https://mail.google.com)
+- 📫 How to reach me ![Gmail Icon](https://link-to-your-icon.png) [Gmail](https://mail.google.com)
 
 
 
