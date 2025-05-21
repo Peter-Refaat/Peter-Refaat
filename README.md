@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate undergraduate at Faculty Of Computers And Information Sciences - Ain Shams University</h3>
+<h3 align="center">A passionate Sophomore at Faculty Of Computers And Information Sciences - Ain Shams University</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
