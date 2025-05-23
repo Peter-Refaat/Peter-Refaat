@@ -10,14 +10,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/peterrefaat_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="peterrefaat_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/qrq4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="qrq4" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/QRQ4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="QRQ4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/peter-refaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peter-refaat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Problem Solving Stats:</h3>
 <p align="left">
-  <a href="https://codeforces.com/profile/qrq4" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/solved?username=qrq4&query=$.solved&label=Codeforces%20Problems%20Solved&color=1f8acb" alt="Codeforces Solved" />
+  <a href="https://codeforces.com/profile/QRQ4" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://codeforces-readme-stats.vercel.app/api/solved?username=QRQ4&query=$.solved&label=Codeforces%20Problems%20Solved&color=1f8acb" alt="Codeforces Solved" />
   </a>
   <a href="https://leetcode.com/peter-refaat" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/peter-refaat&query=$.totalSolved&label=LeetCode%20Problems%20Solved&color=ffa116" alt="LeetCode Solved" />
