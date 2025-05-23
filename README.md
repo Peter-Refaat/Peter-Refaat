@@ -69,5 +69,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter-refaat&show_icons=true&locale=en&layout=compact&theme=dark" alt="peter-refaat" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter-refaat&layout=compact&theme=dark&cache_seconds=86400" />
 </p>
