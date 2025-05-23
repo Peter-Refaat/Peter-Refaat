@@ -18,11 +18,11 @@
 <p align="left">
   <!-- Codeforces - Manual count with auto-updating badge -->
   <a href="https://codeforces.com/profile/QRQ4" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-XXX_solved-blue" alt="Codeforces Solved" />
+    <img src="https://img.shields.io/badge/Codeforces-1868_solved-blue" alt="Codeforces Solved" />
   </a>
   <!-- LeetCode - Manual count with auto-updating badge -->
   <a href="https://leetcode.com/peter-refaat" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-XXX_solved-orange" alt="LeetCode Solved" />
+    <img src="https://img.shields.io/badge/LeetCode-205_solved-orange" alt="LeetCode Solved" />
   </a>
 </p>
 
