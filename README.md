@@ -18,7 +18,7 @@
 <p align="left">
   <!-- Codeforces - Manual count with auto-updating badge -->
   <a href="https://codeforces.com/profile/QRQ4" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1868_solved-blue" alt="Codeforces Solved" />
+    <img src="https://run.kaist.ac.kr/badges/codeforces/jo_on.svg-1868_solved-blue" alt="Codeforces Solved" />
   </a>
   <!-- LeetCode - Manual count with auto-updating badge -->
   <a href="https://leetcode.com/u/PeterRefaat/" target="_blank">
