@@ -11,8 +11,8 @@
 - 📫 How to reach me **peterrefaat904@gmail.com**
 
 
-
-
+**CP STATS**
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/QRQ4.svg)](https://codeforces.com/profile/QRQ4)
 
 
 <img align="right" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="coding">
