@@ -22,8 +22,8 @@
 
 ## 🧑‍💻 About Me
 <b>I'm a junior CS student at the Faculty of Computer & Information Sciences - Ain Shams University,  
-a competitive programmer with an Expert rating on Codeforces and 3000+ solved problems, 
-ECPC silver medalist & ACPC finalist, 
+a competitive programmer with an Expert rating on Codeforces and 3000+ solved problems,  
+ECPC silver medalist & ACPC finalist,  
 and a mentor at acmASCIS, teaching programming and problem-solving to students of all levels.  
 Eager to learn new technologies and build practical software solutions while competing in regional contests like ECPC and ACPC.</b>
 
