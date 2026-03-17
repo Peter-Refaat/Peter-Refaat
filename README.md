@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  <b>A passionate competitive programmer</b>
+  <b>A Competitive Programmer & Software Engineering Enthusiast</b>
 </h3>
 
 <p align="center">
